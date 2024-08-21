@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/probberechts/cactus-dark.git"
+    "url": "git+https://github.com/tPapy"
   },
   "keywords": [
     "Hexo",
@@ -20,9 +20,9 @@
   "author": "Pieter Robberechts",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/probberechts/cactus-dark/issues"
+    "url": "https://github.com/tPapy"
   },
-  "homepage": "https://github.com/probberechts/cactus-dark#readme",
+  "homepage": "https://github.com/tPapy",
   "type": "module",
   "devDependencies": {
     "del": "*",
